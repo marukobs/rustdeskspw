@@ -8,7 +8,6 @@ use std::{
     sync::{Mutex, RwLock},
     time::{Duration, Instant, SystemTime},
 };
-
 use anyhow::Result;
 use rand::Rng;
 use regex::Regex;
